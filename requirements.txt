@@ -14,4 +14,4 @@ sqlparse==0.3.0
 stripe==1.82.1
 urllib3==1.24.2
 twilio==5.7.0
-pillow===7.1.2
+pillow===8.3.2
